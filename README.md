@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kamruddin Mansoori
 
-<!--
-**kamruddin786/kamruddin786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer with a strong interest in building scalable backend systems, working with open source technologies, and automating everything that can be automated. I enjoy solving real-world problems through clean and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: Company projects using Java, Springboot, Angular and MongoDB
+- 🌱 Learning: AI workflows
+- 💼 Professionally: Supervisor Software Engineer @ Zebra Technologies
+
+---
+
+## 🛠️ Tech Stack
+
+Here are some of the tools and technologies I work with:
+
+- **Languages**: Java, JavaScript, Python, TypeScript, Bash
+- **Frameworks**: Spring, SpringBoot, Angular
+- **DevOps**: Docker, kubernetes, GitHub Actions, CI/CD, Linux
+- **Databases**: MongoDB, Oracle, IBM DB2, PostgreSQL
+- **Tools**: VS Code, Git, Postman, Docker Desktop
+
+---
+
+## 📈 GitHub Stats
+
+![Kamruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamruddin786&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamruddin786&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](linkedin.com/in/kamruddin-mansoori-040a0961)
+- ✉️ Email: kamruddin.mansoori@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by!
