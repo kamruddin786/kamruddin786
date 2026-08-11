@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate developer with a strong interest in building scalable backend systems, working with open source technologies, and automating everything that can be automated. I enjoy solving real-wor[...]
+I'm a passionate developer with a strong interest in building scalable backend systems, working with open source technologies, and automating everything that can be automated. I enjoy solving real-world problems through clean and efficient code.
 
 - 🔭 **Currently working on:** Company projects using Java, Spring Boot, Angular, and MongoDB
 - 🌱 **Learning:** AI workflows
@@ -28,8 +28,10 @@ Here are some of the tools and technologies I work with:
 
 ## 📈 GitHub Stats
 
-[![Kamruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamruddin786&show_icons=true&theme=tokyonight)](https://github.com/kamruddin786)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamruddin786&layout=compact&theme=tokyonight)](https://github.com/kamruddin786)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamruddin786&show_icons=true&theme=tokyonight" alt="Kamruddin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamruddin786&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -40,6 +42,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 Thanks for stopping by!
